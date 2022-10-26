@@ -1,0 +1,110 @@
+[
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "course_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent",
+            "Language": "English"
+        },
+        "price": "$135",
+        "title": "Learn web development with HTML, CSS, Bootstrap 4, ES6 React and Node",
+        "instructor": {
+            "name": "Jimmy Dane",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://www.susla.edu/assets/susla/images/WebDevelopmentImage.jpeg",
+        "description": "Web development is the work involved in developing a website for the Internet or an intranet. Web development c to complex web applications, electronic businesses, and social an range from developing a simple single static page of plain textnetwork services.",
+        "details": "Learn What It Takes to Code Dynamic, Professional Websites and Web Apps From The Comfort of Your Own Home Do you ever browse the internet wondering how your favorite websites were built? Facebook, Twitter, Amazon—they were all created by people who at one point in time did not know anything about coding. How did they obtain this knowledge? In this comprehensive course, i am going to show you everything you need to know so that you can follow in these peoples footsteps.You are going to learn how to code AND you are going to become a certified professional from a recognized international trainer. And best of all,you are going to have fun doing it.You Dont Have to Be a Genius or a Mathematical Wizard.So many people believe that you must have a special gift to create professional-quality, dynamic websites/web apps. I am here to tell you once and for all that this is false. All you need to have is the desire to learn and the ability to follow instructions—thats it!Our course starts teaching basic coding principles and develops your coding skills in a variety of languages from beginner through to advanced. Here it is once and for all a complete guide that will take you from novice to web developer."
+    },
+    {
+        "id": "f69a695f037cd9484cecaea37ca71011",
+        "course_id": "02",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent",
+            "Language": "English"
+        },
+        "price": "$145",
+        "title": "Learn Python: The Complete Python Programming Course",
+        "instructor": {
+            "name": "Jennifer Wood",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://iconitinc.com/wp-content/uploads/2022/04/Python-Certification-Training-Course.jpg",
+        "description": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming.",
+        "details": "Do you want to become a programmer. Do you want to learn how to create games, automate your browser, visualize data and much more,If you are looking to learn Python for the very first time or need a quick brush-up, this is the course for you.Python has rapidly become one of the most popular programming languages around the world. Compared to other languages such as Java or C++, Python consistently outranks and outperforms these languages in demand from businesses and job availability. The average Python developer makes over $100,000 this number is only going to grow in the coming years.The best part? Python is one of the easiest coding languages to learn right now. It doesn’t matter if you have no programming experience or are unfamiliar with the syntax of Python. By the time you finish this course, you will be an absolute pro at programming!"
+    },
+    {
+        "id": "e342b6c0c8efc8ca9e811991dc8a7900",
+        "course_id": "03",
+        "rating": {
+            "number": 4.3,
+            "badge": "Excellent",
+            "Language": "English"
+        },
+        "price": "$135",
+        "title": "Javascript for Beginners",
+        "instructor": {
+            "name": "Theo Minh Châu",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://www.freecodecamp.org/news/content/images/2021/06/javascriptfull.png",
+        "description": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries.",
+        "details": " If you want to do something useful start by learning Javascript . In these days when the browser is central to all computer use knowing the language of the browser is the most important step. A few years ago Javascript potential was uncertain and many programmers considered it useless. These days however competent programmers have identified Javascript real potential and uses and it has gone from a toy language to the main language of the browser. It has become one of the most useful languages of this era. Every developer needs at least a basic understanding of Javascript. A developer who knows Javascript is the rockstar of the company and is in constant demand by employers. Our online Javascript course will get you started by teaching all the essential aspects of coding in Javascript. So... what's it gonna be? Do you want to supercharge your career and be in constant demand by employers? Do you want to learn how to create dynamic and innovative Javascript documents? Start programming today with our Javascript course for Beginners training and take control of your career."
+    },
+    {
+        "id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+        "course_id": "04",
+        "rating": {
+            "number": 4.4,
+            "badge": "Excellent",
+            "Language": "English"
+        },
+        "price": "$185",
+        "title": "Artificial Intelligence A-Z™: Learn How To Build An AI",
+        "instructor": {
+            "name": "Hadelin",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://cybersquare.org/assets/uploads/banners/06282022083405Artificial-Intelligence__.jpg.webp",
+        "description": "Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals and humans. AI research has been defined as the field of study of intelligent agents, which refers to any system that perceives its environment and takes actions that maximize its chance of achieving its goals.",
+        "details": "Complete beginner to expert AI skills Learn to code self-improving AI for a range of purposes. In fact we code together with you. Every tutorial starts with a blank page and we write up the code from scratch. This way you can follow along and understand exactly how the code comes together and what each line means.Code templates plus you will get downloadable Python code templates for every AI you build in the course. This makes building truly unique AI as simple as changing a few lines of code. If you unleash your imagination the potential is unlimited."
+    },
+    {
+        "id": "f06f8cc035b04bd1158e4198281915a4",
+        "course_id": "05",
+        "rating": {
+            "number": 4.1,
+            "badge": "Very Good",
+            "Language": "English"
+        },
+        "price": "$85",
+        "title": "Web Design for Beginners: Real World Coding in HTML & CSS",
+        "instructor": {
+            "name": "Heather",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://tas.co.in/wp-content/uploads/2019/11/web-Design-1170x470.jpg",
+        "description": "Web design encompasses many different skills and disciplines in the production and maintenance of websites. The different areas of web design include web graphic design; user interface design; authoring, including standardised code and proprietary software; user experience design; and search engine optimization",
+        "details": "You can launch a new career in web development today by learning HTML & CSS. You don't need a computer science degree or expensive software. All you need is a computer, a bit of time, a lot of determination, and a teacher you trust. I've taught HTML and CSS to countless coworkers and held training sessions for fortune 100 companies. I am that teacher you can trust.Don't limit yourself by creating websites with some cheesy site-builder tool. This course teaches you how to take 100% control over your webpages by using the same concepts that every professional website is created with."
+    },
+    {
+        "id": "30af81e91ab3eafc0bcae0de62f55d5c",
+        "course_id": "06",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent",
+            "Language": "English"
+        },
+        "price": "$145",
+        "title": "Digital Advertising and Marketing 101: The Complete Guide",
+        "instructor": {
+            "name": "John Pike",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://5.imimg.com/data5/BI/TR/GLADMIN-51123638/digital-marketing-course-500x500.png",
+        "description": "Digital marketing is the component of marketing that uses the Internet and online based digital technologies such as desktop computers, mobile phones and other digital media and platforms to promote products and services.",
+        "details": "Are you ready to learn about the world of Digital Marketing & Digital Advertising? Are you ready to learn about the hundreds of companies outside of Google and Facebook which control ads you see on your computer, phones, and tablets? Are you ready to understand the terms, pricing models, ad units, and everything else you need to succeed in the digital advertising space? Then you’re at the right place!I have 10+ years experience in the digital marketing industry, ranging from small businesses in upstate NY, to major advertisers, out of NYC based ad agencies, and on the mobile and tech side of the business, splitting my time between New York and Silicon Valley. The advertisers I work with are both national and international brands ranging from entertainment, fashion, liquor, government agencies and more."
+    }
+]

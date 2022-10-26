@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "Web Development"
+    },
+    {
+        "id": "02",
+        "name": "Python"
+    },
+    {
+        "id": "03",
+        "name": "JAVA Scripts"
+    },
+    {
+        "id": "04",
+        "name": "Artificial Intelligence"
+    },
+    {
+        "id": "05",
+        "name": "Web Design"
+    },
+    {
+        "id": "06",
+        "name": "Digital Marketing"
+    }
+]
